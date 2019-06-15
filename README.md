@@ -33,6 +33,6 @@ export default {
 
 ## tips
 
-::: tip
+:::tip
 This is a tip
 :::
